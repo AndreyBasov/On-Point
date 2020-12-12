@@ -180,6 +180,7 @@ const App = () => {
             setSliderValue(e.target.value);
           }}
           onMouseUp={onSliderMouseUp}
+          onTouchEnd={onSliderMouseUp}
           className="slider"
           id="myRange"
         />
