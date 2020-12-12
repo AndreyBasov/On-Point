@@ -20,8 +20,7 @@ html {
 
 .navbar {
   top: 0;
-  right: 130px;
-  background: transparent;
+  right: 0;
   height: 100vh;
   position: fixed;
   display: flex;
@@ -30,7 +29,7 @@ html {
   z-index: 100;
 }
 .navbar__circle {
-  margin: 5px 0 5px 0;
+  margin: 5px 20px;
   position: relative;
   background: white;
   border-radius: 50%;
