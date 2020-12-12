@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/On-Point/static/js/main.719b7d7d.chunk.js",
-    "main.js.map": "/On-Point/static/js/main.719b7d7d.chunk.js.map",
+    "main.js": "/On-Point/static/js/main.086d6700.chunk.js",
+    "main.js.map": "/On-Point/static/js/main.086d6700.chunk.js.map",
     "runtime-main.js": "/On-Point/static/js/runtime-main.bdf66fc1.js",
     "runtime-main.js.map": "/On-Point/static/js/runtime-main.bdf66fc1.js.map",
     "static/js/2.b14bfffd.chunk.js": "/On-Point/static/js/2.b14bfffd.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.bdf66fc1.js",
     "static/js/2.b14bfffd.chunk.js",
-    "static/js/main.719b7d7d.chunk.js"
+    "static/js/main.086d6700.chunk.js"
   ]
 }
