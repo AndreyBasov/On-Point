@@ -6,13 +6,13 @@ const App = () => {
   let [sliderValue, setSliderValue] = useState(50);
 
   useEffect(() => {
-    // если пересекаем 5% слайда - переходим на этот слайд
+    // если пересекаем 10% слайда - переходим на этот слайд
     let page1 = document.querySelector(".page1");
     let page2 = document.querySelector(".page2");
     let page3 = document.querySelector(".page3");
     const options = {
       root: null,
-      threshold: 0.05,
+      threshold: 0.1,
     };
 
     const scrollToPage = (index) => (entries) => {
