@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/On-Point/static/js/main.4d2b4848.chunk.js",
+    "main.js.map": "/On-Point/static/js/main.4d2b4848.chunk.js.map",
+    "runtime-main.js": "/On-Point/static/js/runtime-main.bdf66fc1.js",
+    "runtime-main.js.map": "/On-Point/static/js/runtime-main.bdf66fc1.js.map",
+    "static/js/2.b14bfffd.chunk.js": "/On-Point/static/js/2.b14bfffd.chunk.js",
+    "static/js/2.b14bfffd.chunk.js.map": "/On-Point/static/js/2.b14bfffd.chunk.js.map",
+    "index.html": "/On-Point/index.html",
+    "static/js/2.b14bfffd.chunk.js.LICENSE.txt": "/On-Point/static/js/2.b14bfffd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdf66fc1.js",
+    "static/js/2.b14bfffd.chunk.js",
+    "static/js/main.4d2b4848.chunk.js"
+  ]
+}
