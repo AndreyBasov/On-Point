@@ -162,7 +162,7 @@ html {
   bottom: 0;
   height: 10vh;
   width: 100vw;
-  background-image: url(/img/bottom-light.png);
+  background-image: url(img/bottom-light.png);
   background-position: center;
   z-index: -9;
   text-align: center;
