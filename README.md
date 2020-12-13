@@ -4,7 +4,7 @@ An interactive responsive medical website. Made using React, Sass (BEM, animatio
 
 Functionality: 
 
-1. fullpage scroll (but implemented with IntersectionObserver)
+1. fullpage scroll (implemented with IntersectionObserver)
 
 2. in the end there's a ranged bar that changes pictures
 
